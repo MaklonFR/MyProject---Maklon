@@ -12,12 +12,12 @@ PKG2022-RPL
 **Analysis of Student Performance at SMKN 1 Kuwus - East Nusa Tenggara - Indonesia**
 
 
-**Dataset (Shape=219, 19)**
+**DATASET (Shape=219, 19)**
 
 ![image](https://user-images.githubusercontent.com/88584119/175334312-b6f9d961-e704-4c44-aa33-071e5e460acf.png)
 
 
-**** 1. Checking Null Data****
+**1. Checking Null Data**
 
 ![image](https://user-images.githubusercontent.com/88584119/175334595-a19ed507-5970-437c-aad7-7a03586306c3.png)
 
